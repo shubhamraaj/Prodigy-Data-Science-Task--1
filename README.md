@@ -36,5 +36,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a https://www.linkedin.com/in/shubhamraj-pandey/"> Shubhamraj Pandey (LinkedIn)</a>
+- <https://www.linkedin.com/in/shubhamraj-pandey/"> Shubhamraj Pandey (LinkedIn)</a>
 - Email: pandeshubhamraj@gmail.com
